@@ -1,0 +1,5 @@
+v1 = input('Escreva algo: ')
+print(type(v1))
+print(v1.isalpha())
+print(v1.isnumeric())
+print(v1.isalnum())
